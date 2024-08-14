@@ -1,0 +1,12 @@
+# Credentials 
+credentials 
+credentials
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
